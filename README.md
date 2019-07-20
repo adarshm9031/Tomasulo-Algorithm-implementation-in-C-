@@ -1,6 +1,6 @@
-# ECE585_TomasuloAlgorithm
+# TomasuloAlgorithm
 ##C++ Tomasulo Algorithm Datapath/Simulator
-**Author:   Arthur J. Miller**
+
 
 ___
 
@@ -9,9 +9,9 @@ ___
 2. https://en.wikipedia.org/wiki/Tomasulo_algorithm#Implementation_concepts
 3. Dr. Chandra professor at Cal Poly Pomona
 
-Full project can be found on www.github.com/milleraj66/ECE585_TomasuloAlgorithm
 
-Date of last development: 03-11-2016
+
+
 
 ___
 
